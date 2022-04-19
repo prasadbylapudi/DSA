@@ -1,0 +1,155 @@
+{
+  "selectedTemplate": 9,
+  "headings": {
+    "work": "Experience",
+    "education": "Education",
+    "skills": "SKILLS",
+    "projects": "Projects",
+    "awards": "Achievements"
+  },
+  "basics": {
+    "email": "harikrishnabakkamanthula@gmail.com ",
+    "name": "HARIKRISHNA BAKKAMANTHULA  ",
+    "phone": "9063830039",
+    "location": {
+      "address": "Vijayawada, AP"
+    },
+    "website": "https://www.linkedin.com/in/harikrishnabakkamanthula/"
+  },
+  "education": [
+    {
+      "institution": "Rajiv Gandhi University of Knowledge Technologies, Srikakulam",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2018",
+      "gpa": "8.5",
+      "endDate": "present"
+    },
+    {
+      "institution": "Rajiv Gandhi University of Knowledge Technologies, Srikakulam",
+      "studyType": "PUC",
+      "area": "MPC",
+      "gpa": "8.01",
+      "startDate": "2016",
+      "endDate": "2018"
+    },
+    {
+      "institution": "Vignan Vihar English Medium High School",
+      "location": "Kandukur",
+      "studyType": "10th",
+      "gpa": "10",
+      "startDate": "2015",
+      "endDate": "2016"
+    }
+  ],
+  "work": [
+    {
+      "company": "Career Dreams Education",
+      "location": "Remote",
+      "position": "Intern",
+      "website": "",
+      "startDate": "May 2021",
+      "highlights": [
+        "Worked on developing various Websites for clients",
+        "Learned a lot of things in web Development",
+        "Improved my skills that how the web is working and learned Deployment and hosting of websites"
+      ],
+      "endDate": "July 2021"
+    },
+    {
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "C/C++",
+        "Java",
+        "Python"
+      ],
+      "name": "Programming"
+    },
+    {
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Bootstrap"
+      ],
+      "name": "Web"
+    },
+    {
+      "keywords": [
+        "Cisco Packet Tracer",
+        "Android Studio",
+        "Git",
+        "VS code"
+      ],
+      "name": "Tools"
+    },
+    {
+      "keywords": [
+        "DS & Algo",
+        "Operating systems",
+        "DBMS",
+        "Web Technologies",
+        "Computer Networks"
+      ],
+      "name": "Course Work"
+    },
+    {
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "description": "Implementation of efficient secured network and preventing threats from external networks ",
+      "keywords": [
+        "Cisco Packet Tracer"
+      ],
+      "name": "Secured Network"
+    },
+    {
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Bootstrap"
+      ],
+      "name": "Grocery Store ",
+      "description": "Created an Website for Grocery Store to helps Users to order their daily needs."
+    },
+    {
+      "keywords": [
+        "ReactJs, Bootstrap"
+      ],
+      "name": "RGUKTians- Map",
+      "description": "Rguktinas map is a web application that displays every RGUKT student and alumni at one place on a map, filters are  present such as year and campus to find and connect."
+    }
+  ],
+  "awards": [
+    {
+      "awarder": "",
+      "title": "Inter University Basketball Tournament",
+      "summary": "Our team represented our university in National level Basketball Tournament"
+    },
+    {
+      "title": "Hackathon Winner",
+      "summary": "Participated and won hackathon in TechFest conducted in RGUKT"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
